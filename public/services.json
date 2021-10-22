@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Door",
+        "price": 2000,
+        "time": 2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi felis augue, consequat vel ante vel, volutpat rhoncus felis. In hac habitasse platea dictumst. Phasellus iaculis nulla nibh, gravida lobortis nunc dignissim at. Quisque vel augue aliquam, ultrices erat sed, mollis arcu. Aenean tincidunt volutpat augue, sit amet egestas nisi pulvinar ut. Sed laoreet molestie condimentum. Praesent non tellus quis purus feugiat volutpat quis vitae enim. Fusce laoreet varius mollis. Praesent ac tincidunt leo, a gravida magna. Morbi ultrices velit vitae hendrerit tincidunt. Mauris venenatis non nulla sit amet molestie. Donec nec lorem interdum, pellentesque lorem a, egestas diam. In lacinia enim sit amet nibh faucibus faucibus. Cras sed tincidunt neque.",
+        "img": "https://i.ibb.co/ZH1TBYs/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Replace Engine",
+        "price": 10000,
+        "time": 4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi felis augue, consequat vel ante vel, volutpat rhoncus felis. In hac habitasse platea dictumst. Phasellus iaculis nulla nibh, gravida lobortis nunc dignissim at. Quisque vel augue aliquam, ultrices erat sed, mollis arcu. Aenean tincidunt volutpat augue, sit amet egestas nisi pulvinar ut. Sed laoreet molestie condimentum. Praesent non tellus quis purus feugiat volutpat quis vitae enim. Fusce laoreet varius mollis. Praesent ac tincidunt leo, a gravida magna. Morbi ultrices velit vitae hendrerit tincidunt. Mauris venenatis non nulla sit amet molestie. Donec nec lorem interdum, pellentesque lorem a, egestas diam. In lacinia enim sit amet nibh faucibus faucibus. Cras sed tincidunt neque.",
+        "img": "https://i.ibb.co/zHgMzNf/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Replace Tire",
+        "price": 13000,
+        "time": 7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi felis augue, consequat vel ante vel, volutpat rhoncus felis. In hac habitasse platea dictumst. Phasellus iaculis nulla nibh, gravida lobortis nunc dignissim at. Quisque vel augue aliquam, ultrices erat sed, mollis arcu. Aenean tincidunt volutpat augue, sit amet egestas nisi pulvinar ut. Sed laoreet molestie condimentum. Praesent non tellus quis purus feugiat volutpat quis vitae enim. Fusce laoreet varius mollis. Praesent ac tincidunt leo, a gravida magna. Morbi ultrices velit vitae hendrerit tincidunt. Mauris venenatis non nulla sit amet molestie. Donec nec lorem interdum, pellentesque lorem a, egestas diam. In lacinia enim sit amet nibh faucibus faucibus. Cras sed tincidunt neque.",
+        "img": "https://i.ibb.co/smVDp1G/3.png"
+    },
+    {
+        "id": 4,
+        "name": "New Paint",
+        "price": 15000,
+        "time": 9,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi felis augue, consequat vel ante vel, volutpat rhoncus felis. In hac habitasse platea dictumst. Phasellus iaculis nulla nibh, gravida lobortis nunc dignissim at. Quisque vel augue aliquam, ultrices erat sed, mollis arcu. Aenean tincidunt volutpat augue, sit amet egestas nisi pulvinar ut. Sed laoreet molestie condimentum. Praesent non tellus quis purus feugiat volutpat quis vitae enim. Fusce laoreet varius mollis. Praesent ac tincidunt leo, a gravida magna. Morbi ultrices velit vitae hendrerit tincidunt. Mauris venenatis non nulla sit amet molestie. Donec nec lorem interdum, pellentesque lorem a, egestas diam. In lacinia enim sit amet nibh faucibus faucibus. Cras sed tincidunt neque.",
+        "img": "https://i.ibb.co/SVPrXjD/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Replace Color",
+        "price": 18000,
+        "time": 10,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi felis augue, consequat vel ante vel, volutpat rhoncus felis. In hac habitasse platea dictumst. Phasellus iaculis nulla nibh, gravida lobortis nunc dignissim at. Quisque vel augue aliquam, ultrices erat sed, mollis arcu. Aenean tincidunt volutpat augue, sit amet egestas nisi pulvinar ut. Sed laoreet molestie condimentum. Praesent non tellus quis purus feugiat volutpat quis vitae enim. Fusce laoreet varius mollis. Praesent ac tincidunt leo, a gravida magna. Morbi ultrices velit vitae hendrerit tincidunt. Mauris venenatis non nulla sit amet molestie. Donec nec lorem interdum, pellentesque lorem a, egestas diam. In lacinia enim sit amet nibh faucibus faucibus. Cras sed tincidunt neque.",
+        "img": "https://i.ibb.co/P9VGHGg/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Replace Oil Tank",
+        "price": 30000,
+        "time": 13,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi felis augue, consequat vel ante vel, volutpat rhoncus felis. In hac habitasse platea dictumst. Phasellus iaculis nulla nibh, gravida lobortis nunc dignissim at. Quisque vel augue aliquam, ultrices erat sed, mollis arcu. Aenean tincidunt volutpat augue, sit amet egestas nisi pulvinar ut. Sed laoreet molestie condimentum. Praesent non tellus quis purus feugiat volutpat quis vitae enim. Fusce laoreet varius mollis. Praesent ac tincidunt leo, a gravida magna. Morbi ultrices velit vitae hendrerit tincidunt. Mauris venenatis non nulla sit amet molestie. Donec nec lorem interdum, pellentesque lorem a, egestas diam. In lacinia enim sit amet nibh faucibus faucibus. Cras sed tincidunt neque.",
+        "img": "https://i.ibb.co/1ntfbmQ/6.png"
+    }
+]

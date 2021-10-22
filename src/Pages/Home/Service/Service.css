@@ -1,0 +1,10 @@
+.service{
+    border: 3px solid aquamarine;
+    border-radius: 20px;
+    padding: 10px;
+}
+.service-img{
+    width: 480px;
+    height: 380px;
+    border-radius: 20px;
+}
